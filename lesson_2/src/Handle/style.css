@@ -1,0 +1,13 @@
+.block{
+    width: 150px;
+    height: 20px;
+    border: 1px solid black;
+    margin: 5px;
+}
+.demo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+}
